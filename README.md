@@ -4,7 +4,7 @@
 
 **Ta musique, à toi. Téléchargée, hors-ligne, sans pub.**
 
-[![Télécharger l'APK](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-APK%20Android-6E56CF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Gatsby4444/sonlite-app/releases/latest/download/SonLite-latest.apk)
+[![Télécharger l'APK](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-APK%20Android-6E56CF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Gatsby4444/sonlite/releases/latest/download/SonLite-latest.apk)
 
 [Site officiel](https://sonlite-web.vercel.app) · [Soutenir le projet](https://sonlite-web.vercel.app/premium) · [Confidentialité](https://sonlite-web.vercel.app/confidentialite)
 
@@ -41,7 +41,7 @@ C'est volontairement une vue d'ensemble — le reste, tu le découvriras en l'ut
 
 ## Installation
 
-1. Télécharge le dernier **APK** avec le bouton tout en haut, ou depuis l'onglet [Releases](https://github.com/Gatsby4444/sonlite-app/releases).
+1. Télécharge le dernier **APK** avec le bouton tout en haut, ou depuis l'onglet [Releases](https://github.com/Gatsby4444/sonlite/releases).
 2. Ouvre le fichier sur ton téléphone. Si Android le demande, autorise l'installation depuis cette source.
 3. Lance l'app et colle ton premier lien.
 
