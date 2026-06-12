@@ -2,79 +2,81 @@
 
 # SonLite
 
-**Ta musique, à toi. Téléchargée, hors-ligne, sans pub.**
+**Your music, yours. Downloaded, offline, ad-free.**
 
-[![Télécharger l'APK](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-APK%20Android-6E56CF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Gatsby4444/sonlite/releases/latest/download/SonLite-latest.apk)
+[![Download the APK](https://img.shields.io/badge/Download-APK%20Android-6E56CF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Gatsby4444/sonlite/releases/latest/download/SonLite-latest.apk)
 
-[Site officiel](https://sonlite-web.vercel.app) · [Soutenir le projet](https://sonlite-web.vercel.app/premium) · [Confidentialité](https://sonlite-web.vercel.app/confidentialite)
+[Official site](https://sonlite-web.vercel.app) · [Support the project](https://sonlite-web.vercel.app/premium) · [Privacy](https://sonlite-web.vercel.app/confidentialite)
+
+**English** · [Français](README_FR.md)
 
 </div>
 
 ---
 
-## C'est quoi SonLite
+## What is SonLite
 
-Tu colles un lien YouTube — un clip, une musique, un podcast — et l'audio arrive en haute qualité directement dans ta bibliothèque. C'est tout. Pas de pub, pas de site louche pour télécharger, pas internet une fois que c'est sur ton téléphone.
+You paste a YouTube link — a clip, a song, a podcast — and the audio lands in high quality straight into your library. That's it. No ads, no shady download site, no internet once it's on your phone.
 
-On n'a pas réinventé la roue : on a juste enlevé tout ce qui rend les autres apps pénibles. Tu colles, tu écoutes, tu ranges dans tes playlists. Et si un jour tu veux partager tes sons avec des potes, c'est là aussi — mais seulement si tu en as envie.
+We didn't reinvent the wheel: we just removed everything that makes other apps a pain. You paste, you listen, you sort it into your playlists. And if one day you want to share your sounds with friends, that's here too — but only if you feel like it.
 
-> Android uniquement, distribuée en APK (pas de Play Store). Entièrement gratuite.
+> Android only, distributed as an APK (no Play Store). Completely free.
 
-## Pourquoi tu vas l'adopter
+## Why you'll adopt it
 
-**Ta bibliothèque t'appartient.** Les morceaux vivent sur ton téléphone. Pas de cloud obligatoire, pas d'abonnement pour réécouter ce que t'as déjà, pas de connexion exigée. Tu pars en avion, en métro, à la campagne — ta musique te suit.
+**Your library belongs to you.** Tracks live on your phone. No mandatory cloud, no subscription to replay what you already have, no connection required. You fly, ride the subway, head out to the countryside — your music follows you.
 
-**Zéro friction.** Coller un lien et avoir le son rangé dans la foulée, ça prend trois secondes. Lecture en arrière-plan, contrôles depuis la notification et les écouteurs, file d'attente, playlists illimitées que tu réorganises au doigt.
+**Zero friction.** Pasting a link and having the sound filed away takes three seconds. Background playback, controls from the notification and your earbuds, a queue, unlimited playlists you reorder with a finger.
 
-**Pas de compromis louche.** Pas de pub qui coupe ton écoute, pas de redirection vers des sites douteux, pas de pisteurs qui revendent ce que tu écoutes. Ce que tu fais dans SonLite reste sur ton appareil.
+**No shady trade-offs.** No ads cutting into your listening, no redirects to dodgy sites, no trackers reselling what you listen to. What you do in SonLite stays on your device.
 
-## Ce qui nous démarque
+## What sets us apart
 
-- **Téléchargement propre et rapide** — un lien, l'audio extrait en haute qualité, ajouté direct à ta biblio avec titre, artiste et pochette.
-- **100 % hors-ligne** — lecteur complet, playlists, recherche : tout marche sans réseau et sans compte.
-- **Partage de proximité, sans serveur ni internet** — envoie un morceau ou une playlist entière à quelqu'un à côté de toi, en direct d'un téléphone à l'autre. Rien ne transite par un serveur.
-- **Un éditeur intégré** — découpe et nettoie tes fichiers avec la forme d'onde sous les yeux.
-- **Une couche sociale, si tu veux** — profil, abonnements, amis, messagerie et « sons du jour » éphémères. Optionnelle, jamais imposée.
-- **À toi de la personnaliser** — thèmes, mode sombre, skins et icônes pour que l'app te ressemble.
+- **Clean, fast downloads** — one link, audio extracted in high quality, added straight to your library with title, artist and cover art.
+- **100% offline** — full player, playlists, search: everything works with no network and no account.
+- **Nearby sharing, no server or internet** — send a track or a whole playlist to someone next to you, straight from one phone to another. Nothing goes through a server.
+- **A built-in editor** — trim and clean up your files with the waveform right in front of you.
+- **A social layer, if you want it** — profile, follows, friends, messaging and ephemeral “daily sounds”. Optional, never forced.
+- **Make it yours** — themes, dark mode, skins and icons so the app looks like you.
 
-C'est volontairement une vue d'ensemble — le reste, tu le découvriras en l'utilisant.
+This is deliberately a broad overview — the rest, you'll discover by using it.
 
 ## Installation
 
-1. Télécharge le dernier **APK** avec le bouton tout en haut, ou depuis l'onglet [Releases](https://github.com/Gatsby4444/sonlite/releases).
-2. Ouvre le fichier sur ton téléphone. Si Android le demande, autorise l'installation depuis cette source.
-3. Lance l'app et colle ton premier lien.
+1. Download the latest **APK** with the button at the very top, or from the [Releases](https://github.com/Gatsby4444/sonlite/releases) tab.
+2. Open the file on your phone. If Android asks, allow installation from this source.
+3. Launch the app and paste your first link.
 
 | | |
 |---|---|
-| Android minimum | 7.0 (API 24) |
-| Architecture | arm64-v8a (appareils 64-bit) |
+| Minimum Android | 7.0 (API 24) |
+| Architecture | arm64-v8a (64-bit devices) |
 
-## Une petite équipe, un projet vivant
+## A small team, a living project
 
-SonLite est développé par une petite équipe indépendante — deux-trois personnes qui aiment la musique et en avaient marre des apps bourrées de pub. On le construit sur notre temps, par passion, et on compte bien continuer.
+SonLite is built by a small independent team — two or three people who love music and were fed up with ad-stuffed apps. We build it on our own time, out of passion, and we fully intend to keep going.
 
-Mais une app comme celle-ci a des coûts réels : les serveurs qui font tourner la partie sociale, le temps de développement, les outils. C'est là que tu entres en jeu.
+But an app like this has real costs: the servers that run the social side, development time, the tools. That's where you come in.
 
-**Tu peux soutenir le projet de plusieurs manières :**
+**You can support the project in several ways:**
 
-- **Faire un don** sur la [page de soutien](https://sonlite-web.vercel.app/premium). En contrepartie tu débloques le **premium** : skins, icônes et badges de profil exclusifs. C'est ce qui paie les serveurs et garde le projet en vie.
-- **Mettre une étoile** au repo — ça coûte rien et ça nous aide énormément à exister.
-- **En parler** autour de toi, remonter les bugs, proposer des idées.
+- **Make a donation** on the [support page](https://sonlite-web.vercel.app/premium). In return you unlock **premium**: exclusive skins, icons and profile badges. That's what pays for the servers and keeps the project alive.
+- **Star the repo** — it costs nothing and helps us exist enormously.
+- **Spread the word**, report bugs, suggest ideas.
 
-Chaque soutien, même le plus petit, fait une vraie différence pour une équipe de notre taille. Merci à ceux qui rendent la suite possible.
+Every bit of support, even the smallest, makes a real difference for a team our size. Thanks to everyone who makes what's next possible.
 
-## Vie privée
+## Privacy
 
-SonLite est pensé local d'abord : ta musique, tes playlists et ton historique d'écoute restent sur ton appareil, et tout fonctionne sans compte. Si tu crées un compte, il ne sert qu'à la couche sociale (profil public, abonnements, partages que tu choisis d'envoyer). Le serveur n'héberge jamais ta bibliothèque audio.
+SonLite is local-first by design: your music, your playlists and your listening history stay on your device, and everything works without an account. If you create an account, it's used only for the social layer (public profile, follows, shares you choose to send). The server never hosts your audio library.
 
-Détails sur la [page confidentialité](https://sonlite-web.vercel.app/confidentialite).
+Details on the [privacy page](https://sonlite-web.vercel.app/confidentialite).
 
 ---
 
 <div align="center">
 
-Fait avec soin par l'équipe SonLite · [sonlite-web.vercel.app](https://sonlite-web.vercel.app)
+Made with care by the SonLite team · [sonlite-web.vercel.app](https://sonlite-web.vercel.app)
 
 © 2026 SonLite
 
